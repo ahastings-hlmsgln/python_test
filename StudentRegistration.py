@@ -1,4 +1,4 @@
-#  StudentRegistration.py 
+#  StudentRegistration version 2.py 
 #  This program processes student details to register them into courses and then displays this information onto the screen.  
 #  Author: Andrew Hastings
 #  Date: 10/05/2023
